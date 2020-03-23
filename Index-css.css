@@ -1,0 +1,21 @@
+h1 {font-family: Garamond}
+li {background-color: white}
+h1 {text-align: center;
+  border: 5px black
+  double; background-color: white;}
+ 
+img 
+{display: block;
+ margin-left: auto;
+ margin-right: auto;
+ width: 50%;}
+img 
+{border: 5px double #ddd;
+ border-radius: 50%;
+ padding: 7px;
+ width: 350px;
+ border-color: white}
+blockquote {background-color: white}
+body {background-image: url("background.jpg")}
+p {text-align: center;
+	background-color: white}
